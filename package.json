@@ -1,19 +1,26 @@
 {
-  "name": "react-boilerplate",
-  "homepage": "https://abel1105.github.io",
+  "name": "local-storage-drive",
+  "homepage": "https://abel1105.github.io/local-storage-drive",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.4.0",
     "classnames": "^2.2.6",
+    "downloadjs": "^1.4.7",
+    "filesize": "^4.1.2",
+    "lz-string": "^1.4.4",
+    "moment": "^2.24.0",
     "node-sass": "^4.12.0",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-dropzone": "^10.1.8",
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.0.1",
     "react-router-ga": "^1.2.1",
     "react-scripts": "3.1.1",
-    "redux": "^4.0.4"
+    "redux": "^4.0.4",
+    "redux-persist": "^5.10.0"
   },
   "devDependencies": {
     "husky": "^3.0.4",
